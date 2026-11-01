@@ -1,4 +1,4 @@
-Atividade Prática AULA 1 – prof. Francisco Fambrini – 19/09/2026
+Atividade Prática AULA 1 – prof. Francisco Fambrini – 19/09/2026<br>
 Interfaces Web/Mobile para Coleta de Dados: Gradio x Streamlit
 
 1. Objetivo<br>
